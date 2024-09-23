@@ -1,6 +1,21 @@
 # Java-Programming (1st year of Cross-Platform Application Development)
-Java exercises carried out for the subject of Cross-Platform Application Development at the I.E.S. Belén (Málaga)
-Most of the exercises in this repository are taken from the Programming manual by [Alfonso Jiménez Martín and Francisco Manuel Pérez Montes (ed. Paraninfo)](https://www.paraninfo.es/catalogo/9788428342865/programacion--edicion-2021-).
+Java exercises carried out for the subject of Cross-Platform Application Development at the I.E.S. Belén (Málaga). Most of the exercises in this repository are taken from the programming manual by 
+[`Alfonso Jiménez Martín and Francisco Manuel Pérez Montes (ed. Paraninfo)`](https://www.paraninfo.es/catalogo/9788428342865/programacion-).
+
+To start working it is necessary to have a development site where you can program.
+In this case I will install the Java Plug-in.
+
+- [`Apache NetBeans 19`](https://netbeans.apache.org/front/main/download/nb19/)
+it a open source integrated development environment (IDE) that provides advanced tools for software development in Java and other programming languages.
+
+- [`Oracle`](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) 
+it is the one that helps you develop and deploy Java applications on desktops and servers.
+
+- [`Java`](https://www.java.com/es/download/ie_manual.jsp)
+in order to use this site it is necessary to have the Java Plug-in version 1.3.1.07 installed.
+
+Also with the help of the notes on this page called [`Learn X in a Y minute`](https://learnxinyminutes.com/docs/java/).
+
 
 ## File structure :file_folder:
 The exercises are divided by trimester. Within each quarter, they are separated by the manual units (listed below). Inside each drive folder is a Java project with several *packages*, numbered and named as follows:
