@@ -54,9 +54,14 @@ Additional Activity
 ```
 
 ## 📚 Units
-The units in the manual and the topics covered in each one are listed below.
-### Unit 1: basic concepts
+The topics covered during the course are listed below in each of the following sections.
+### Unit 1 - Basic Concepts
 Basic exercises to understand Java syntax, as well as other common concepts to understand any programming language. Variables, different types of operators, primitive types (sizes, ranges and conversions), console output and input, the java API and a brief introduction to methods.
+
+### Unit 2 - Conditionals
+This topic covers selection structures, nonlinear applications, single `if`, double `if-else`, and multiple `switch` conditionals. Extensive use of relational and logical operators, as well as revisiting the ternary operator.
+
+
 
 
 ## 👩‍💻 Developer
