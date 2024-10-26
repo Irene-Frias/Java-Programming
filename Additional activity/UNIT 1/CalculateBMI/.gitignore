@@ -1,0 +1,13 @@
+nbproject/private/
+build/
+dist/
+.DS_Store
+*.class
+
+# Ignorar configuraciones de NetBeans y archivos compilados
+nbproject/
+build/
+dist/
+lib/
+*.class
+*.jar
