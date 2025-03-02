@@ -74,7 +74,7 @@ This topic covers selection structures, nonlinear applications, single `if`, dou
 This unit covers repetition structures `while`, `do while`, and `for`, as well as how to program applications that repeat sets of statements using loops. Has been made an extensive use of functions for the resolution of the exercises in order to not repeat code, although the functions will be explained in the next unit.
 
 ### Unit 4 - Functions
-The concept of __functions__ is introduced, along with their benefits and how to implement them in code. Exercises cover the use of parameters, automation, overloading and recursion. In addition, students will create their first libraries in Java.
+The concept of functions is introduced, along with their benefits and how to implement them in code. Exercises cover the use of parameters, automation, overloading and recursion. In addition, students will create their first libraries in Java.
 
 ### Unit 5 - Matrices
 Arrays are used to manage multiple values ​​in a variable, exploring their creation, manipulation and common operations. Programs will be designed that modify the length of `arrays` at runtime without losing data, using the Java API to solve problems.
@@ -83,7 +83,7 @@ Arrays are used to manage multiple values ​​in a variable, exploring their c
 The primitive type `char` and the `String` class are studied, applying advanced methods for text manipulation. The Java API will be used to develop applications that process textual information efficiently.
 
 ### Unit 7 - Classes
-The fundamentals of __Object Oriented Programming (OOP)__ are introduced, applying them in practical programs. We will work with attribute visibility and class design to improve code structure and functionality.
+The fundamentals of Object Oriented Programming (OOP) are introduced, applying them in practical programs. We will work with attribute visibility and class design to improve code structure and functionality.
 
 ## 👩‍💻 Developer
 Irene Frias Ramos
