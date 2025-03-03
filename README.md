@@ -26,10 +26,13 @@ from the ones in the book.
 
 ```
 Solved exercises
-├── Tarea*/
+├── UNIT*/
+│   ├── build/classes
+│   ├── nbproject
 │   ├── src/
-│   ├── tarea*/
-└── pkg*
+│        ├── tarea*/
+│   ├── build.xml
+└──  manifest.mf
 ```
 
 - **Proposed activity:** exercises that appear in the book, consist of practicing more of what was learned in each 
@@ -37,20 +40,26 @@ of the units.
 
 ```
 Proposed activity
-├── Act*/
+├── UNIT*/
+│   ├── build/classes
+│   ├── nbproject
 │   ├── src/
-│   ├── act*/
-└── pkg*
+│        ├── act*/
+│   ├── build.xml
+└──  manifest.mf
 ```
 
 - **Additional Activity:** they are exercises that do not fall into any of the previous categories and do not come from the manual, may be challenges presented in class or the student's own initiatives. Its function is to reinforce the contents worked on in the unit.
 
 ```
 Additional Activity
-├── Rel*/
+├── UNIT*/
+│   ├── build/classes
+│   ├── nbproject
 │   ├── src/
-│   ├── rel*/
-└── pkg*
+│        ├── rel*/
+│   ├── build.xml
+└──  manifest.mf
 ```
 
 ## 📚 Units
@@ -61,8 +70,20 @@ Basic exercises to understand Java syntax, as well as other common concepts to u
 ### Unit 2 - Conditionals
 This topic covers selection structures, nonlinear applications, single `if`, double `if-else`, and multiple `switch` conditionals. Extensive use of relational and logical operators, as well as revisiting the ternary operator.
 
+### Unit 3 - Loops
+This unit covers repetition structures `while`, `do while`, and `for`, as well as how to program applications that repeat sets of statements using loops. Has been made an extensive use of functions for the resolution of the exercises in order to not repeat code, although the functions will be explained in the next unit.
 
+### Unit 4 - Functions
+The concept of functions is introduced, along with their benefits and how to implement them in code. Exercises cover the use of parameters, automation, overloading and recursion. In addition, students will create their first libraries in Java.
 
+### Unit 5 - Matrices
+Arrays are used to manage multiple values ​​in a variable, exploring their creation, manipulation and common operations. Programs will be designed that modify the length of `arrays` at runtime without losing data, using the Java API to solve problems.
+
+### Unit 6 - Strings
+The primitive type `char` and the `String` class are studied, applying advanced methods for text manipulation. The Java API will be used to develop applications that process textual information efficiently.
+
+### Unit 7 - Classes
+The fundamentals of Object Oriented Programming (OOP) are introduced, applying them in practical programs. We will work with attribute visibility and class design to improve code structure and functionality.
 
 ## 👩‍💻 Developer
 Irene Frias Ramos
