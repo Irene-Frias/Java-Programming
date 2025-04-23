@@ -76,7 +76,7 @@ This unit covers repetition structures `while`, `do while`, and `for`, as well a
 ### Unit 4 - Functions
 The concept of functions is introduced, along with their benefits and how to implement them in code. Exercises cover the use of parameters, automation, overloading and recursion. In addition, students will create their first libraries in Java.
 
-### Unit 5 - Matrices
+### Unit 5 - Arrays
 Arrays are used to manage multiple values ​​in a variable, exploring their creation, manipulation and common operations. Programs will be designed that modify the length of `arrays` at runtime without losing data, using the Java API to solve problems.
 
 ### Unit 6 - Strings
@@ -84,6 +84,7 @@ The primitive type `char` and the `String` class are studied, applying advanced 
 
 ### Unit 7 - Classes
 The fundamentals of Object Oriented Programming (OOP) are introduced, applying them in practical programs. We will work with attribute visibility and class design to improve code structure and functionality.
+
 
 ## 👩‍💻 Developer
 Irene Frias Ramos
